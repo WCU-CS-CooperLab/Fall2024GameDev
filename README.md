@@ -13,4 +13,5 @@ These are starting versions of some of the games we'll be making in class
 
 1. [Player Scene Aug 28](player_scene_08_28/)  
 2. [Player Scene Aug 30](player_scene_08_30/)
-3. [Main Scene Sept 4](main_scene_09_04/)
+3. [Main Scene Sept 4](main_scene_09_04/) 
+3. [Main Scene With HUD Sept 6](main_scene_09_06/) 
