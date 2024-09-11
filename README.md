@@ -16,3 +16,4 @@ These are starting versions of some of the games we'll be making in class
 3. [Main Scene Sept 4](main_scene_09_04/) 
 3. [Main Scene With HUD Sept 6](main_scene_09_06/) 
 5. [player scene space rocks sept 9](sr_player_scene_09_09/)
+6. [main scene space rocks sept 11](sr_main_09_11/)
