@@ -34,3 +34,7 @@ These are starting versions of some of the games we'll be making in class
 11. [main scene finished with sound](sr_main_finished_w_sound_09_18/)
 11. [Player Scene finished](sr_player_scene_09_17/)
 
+### Project 1
+
+1. [Space Rocks Phase I](sr_phase_I/) - Score works, enemy absorbs bullets, arrow keys to move, space to shoot.
+
