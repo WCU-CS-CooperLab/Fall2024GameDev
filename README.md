@@ -43,7 +43,12 @@ These are starting versions of some of the games we'll be making in class
 
 
 
-### Project 1
+## Project 1
 
 1. [Space Rocks Phase I](sr_phase_I/) - Score works, enemy absorbs bullets, arrow keys to move, space to shoot.
+
+## Jungle Jump
+
+1. [Oct 2 Jungle Jump](jungle_jump_10_2_a)
+2. [Oct 7 Jungle Jump](jj_level_one_10_07)
 
