@@ -52,5 +52,6 @@ These are starting versions of some of the games we'll be making in class
 1. [Oct 2 Jungle Jump](jungle_jump_10_2_a)
 2. [Oct 7 Jungle Jump](jj_level_one_10_07)
 2. [Oct 9 Jungle Jump](jj_level_one_10_09)
+3. [Oct 11 Two Levels](jj_two_levels_10_11)
 
 
