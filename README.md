@@ -58,3 +58,4 @@ These are starting versions of some of the games we'll be making in class
 ## Infinite Scroller (Ring Stormer)
 
 1. [Ring Stormer Test 10/16](ring_stormer_test_10_16)
+2. [Ring Stormer 10/18](ring_stormer_10_18)
