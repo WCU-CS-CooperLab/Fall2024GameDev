@@ -6,3 +6,4 @@
 4. [Treasure of the Stone Bridge](https://wcu-cs-cooperlab.github.io/demo-games-ColeSny/GroupProject1/) - by Team **3 Kings Productions**
 5. [Bridge Quest](https://wcu-cs-cooperlab.github.io/demo-games-AF991408/BridgeQuest/) - by Team **Yay CompSci!**
 6. [The Stone Bridge Treasure Heist](https://wcu-cs-cooperlab.github.io/demo-games-Scott-Stahmer/StoneBridgeVer1/) - by Team **The Game Dev Team**
+7. [Treasure Parkour](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/treasure_parkour/) - by Team **Ubihard**
