@@ -1,4 +1,12 @@
 # Demo CSC476 Games
+
+## Student Submissions
+
+[Individual Projects](students.html)
+[Team Project 1 - Games](TeamProject1.html)
+
+##
+
 These are starting versions of some of the games we'll be making in class
 ## Listing
 
