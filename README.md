@@ -2,8 +2,8 @@
 
 ## Student Submissions
 
-[Individual Projects](students.html)
-[Team Project 1 - Games](TeamProject1.html)
+- [Individual Projects](students.html)
+- [Team Project 1 - Games](TeamProject1.html)
 
 ##
 
