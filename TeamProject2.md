@@ -5,7 +5,7 @@
      - [Son of Nug (Mac) - Hug Nugs](https://wcu-cs-cooperlab.github.io/demo-games-ferntherobot/team-project-2/Sons_of_Nug_Mac.zip)
 2. Gem Rush - by The 4 Kings
      - [Gem Rush (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-inagle33/Projects/TeamProject2_mac/GemRush.zip)
-     - [Gem Rush (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-inagle33/Projects/TeamProject2_windows/GemRush.exe) 
+     - [Gem Rush (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-inagle33/Projects/TeamProject2_windows/GemRush.zip) 
 4. Fruitocalypse - by Ubihard
      - [Fruitocalypse(Mac)](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/FruitocalypseMACOS.zip)
      - [Fruitocalypse(Windows)](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/FruitocalypseWindows.zip)
