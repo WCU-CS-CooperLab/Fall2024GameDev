@@ -12,5 +12,7 @@
 5. Knights.IO - by The Game Makers
 6. Wasteland Warriors - by MMJGD
 7. Rat Race - by PentaGame
-8. Hoard Rush - by The Game Dev Team
-9. Knight's Arena - by Yay CompSci!
+     - [Rat Race (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/rat_race_Windows.exe)
+     - [Rat Race (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/rat_race_macOS.dmg)
+9. Hoard Rush - by The Game Dev Team
+10. Knight's Arena - by Yay CompSci!
