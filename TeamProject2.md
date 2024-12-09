@@ -11,6 +11,7 @@
      - [Fruitocalypse(Windows)](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/FruitocalypseWindows.zip)
 5. Knights.IO - by The Game Makers
      - [Knights.IO (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-MatthewHorwatt/ZippedTeamProject/TheGameMakersProject2.zip)
+     - [Knights.IO (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-MatthewHorwatt/TheGameMakersProject2.zip)
 7. Wasteland Warriors - by MMJGD
      - [Wasteland Warriors (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-jacchambers/Team%20Project%202/Windows.zip)
      - [Wasteland Warriors (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-jacchambers/Team%20Project%202/Mac/WastelandWarriors.zip)
