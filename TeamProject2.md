@@ -10,9 +10,12 @@
      - [Fruitocalypse(Mac)](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/FruitocalypseMACOS.zip)
      - [Fruitocalypse(Windows)](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/FruitocalypseWindows.zip)
 5. Knights.IO - by The Game Makers
-6. Wasteland Warriors - by MMJGD
-7. Rat Race - by PentaGame
+     - [Knights.IO (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-MatthewHorwatt/ZippedTeamProject/TheGameMakersProject2.zip)
+7. Wasteland Warriors - by MMJGD
+     - [Wasteland Warriors (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-jacchambers/Team%20Project%202/Windows.zip)
+     - [Wasteland Warriors (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-jacchambers/Team%20Project%202/Mac/WastelandWarriors.zip)
+9. Rat Race - by PentaGame
      - [Rat Race (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/rat_race_Windows.exe)
      - [Rat Race (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/rat_race_macOS.dmg)
-9. Hoard Rush - by The Game Dev Team
-10. Knight's Arena - by Yay CompSci!
+10. Hoard Rush - by The Game Dev Team
+11. Knight's Arena - by Yay CompSci!
