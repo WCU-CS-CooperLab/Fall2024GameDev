@@ -16,7 +16,7 @@
      - [Wasteland Warriors (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-jacchambers/Team%20Project%202/Windows.zip)
      - [Wasteland Warriors (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-jacchambers/Team%20Project%202/Mac/WastelandWarriors.zip)
 9. Rat Race - by PentaGame
-     - [Rat Race (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/rat_race_Windows.exe)
-     - [Rat Race (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/rat_race_macOS.dmg)
+     - [Rat Race (Windows)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/ratRace_Windows.zip)
+     - [Rat Race (Mac)](https://wcu-cs-cooperlab.github.io/demo-games-folo1/ratRace_mac_fin.dmg)
 10. Hoard Rush - by The Game Dev Team
 11. Knight's Arena - by Yay CompSci!
