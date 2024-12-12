@@ -22,4 +22,6 @@
 11. Knight's Arena - by Yay CompSci!
      - [Knight's Arena (Mac Server)](https://wcu-cs-cooperlab.github.io/demo-games-AF991408/MACVersionServer.zip)
      - [Knight's Arena (Windows Server)](https://wcu-cs-cooperlab.github.io/demo-games-AF991408/WINDOWSSERVERversion.zip)
+     - [Knight's Arena (Mac Client)](https://wcu-cs-cooperlab.github.io/demo-games-AF991408/updatedMACversion.zip)
+     - [Knight's Arena (Windows Client)](https://wcu-cs-cooperlab.github.io/demo-games-AF991408/updatedWINDOWSversion.zip)
        
