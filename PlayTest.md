@@ -101,3 +101,8 @@ Please [randomly select](https://www.random.org) games to play so that everyone 
 95. [Battery Dash - Vasilis Hughes (proj1)](https://wcu-cs-cooperlab.github.io/demo-games-VasilisH17/battery_dash_project1_scenes/part_three_scene_9_13/index.html)
 96. [Time Attack - Vasilis Hughes (proj2)](https://wcu-cs-cooperlab.github.io/demo-games-VasilisH17/time_attack_project2_scenes/time_attack_revised_12_7/index.html)
 97. [3D Hockey - Vasilis Hughes (proj3)](https://wcu-cs-cooperlab.github.io/demo-games-VasilisH17/3d_hockey_project3_scenes/3d_hockey_revised_12_7/index.html)
+98. [Space Rocks CR](https://wcu-cs-cooperlab.github.io/demo-games-bxdda/projects/Project1/Phase2/SpaceRocks.html)
+99. [Jungle Jump CR - Chaughn Robin](https://wcu-cs-cooperlab.github.io/demo-games-bxdda/projects/Project2/Phase2/JungleJump.html)
+100. Infinite Flyer CR - Chaughn Robin
+     - [Windows download]( https://wcu-cs-cooperlab.github.io/demo-games-bxdda/projects/Project3/Windows/InfiniteFlyer.7z)
+     - [Mac Download](https://wcu-cs-cooperlab.github.io/demo-games-bxdda/projects/Project3/MacOS/InfiniteFlyer.zip)
